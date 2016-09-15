@@ -1,0 +1,2 @@
+# NortheasternCoOp
+Using bash script to analyze illumina NGS data to leverage the 16S ribosomal RNA gene of prokaryote present in the samples analyzed. The 16S rRNA gene was focused on to help used to understand the phylogenic structure of species content and diversity because it offers a proxy/heuristic to be able to conduct analysis, as opposed to needing to sequence the entire genome of each and every organism present in each of the hundreds of samples that require analysis.
